@@ -1,5 +1,5 @@
 # Angular on Netlify Quick Start Template    
-![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
+![netlify + angular logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2t4u2o0u2i1w7t4_wedding-crashers-wedding-crashers-movie-poster%2F&psig=AOvVaw0pU8OOxGAKPzmS_0lsZCY5&ust=1677686055023000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJiY_NTJuP0CFQAAAAAdAAAAABAE)
 
 This is a bare-bones Angular project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
 
